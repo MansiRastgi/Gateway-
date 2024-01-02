@@ -30,3 +30,12 @@ ReqBalenq
 Resbalenq 
 CreateMerchantRq
 CreateMerchantRs
+ReqPay Collect
+Resp Pay - Collect
+ReqMandate
+CreateMandate - Resp 
+ReqAuthMandate
+RespAuthMandate
+ReqMandateConfirmation
+RespMandateConfirmation
+
