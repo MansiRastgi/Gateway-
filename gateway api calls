@@ -1,0 +1,32 @@
+Reqpay type - pay
+ReqAuthDetails
+RespAuthDetails
+ReqPay Debit
+RespPay Debit
+ReqPay Credit
+RespPay Credit
+Resppay type - pay
+ReqTxnConfirmation
+RespTxnConfirmation
+Getcallbackmethod
+Response
+ReqRegMob
+RespRegMob
+ReqListAccount 
+RespListAccount
+ ReqPay - Credit reversal
+ReqChkTxn -1 
+Get transaction -req
+Get transaction details -req
+Get transaction details -res
+Get transaction -res
+ResChkTxn
+ReqchkTXN -2 
+RespChkTxn
+ReqchkTXN -3
+RespChkTxn
+RespPay - Credit reversal
+ReqBalenq
+Resbalenq 
+CreateMerchantRq
+CreateMerchantRs
